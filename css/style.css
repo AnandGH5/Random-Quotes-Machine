@@ -1,0 +1,52 @@
+body
+{
+  background-color:#2C3E50 !important;
+}
+
+.title
+{
+  opacity: 0.9;
+  color: #EEEEEE;
+  font-family:cookie;
+  margin-top:5%;
+  margin-bottom:3%;
+  text-align:center;
+  font-size: 3.5em;
+  line-height:40px;
+  text-shadow: 2px 2px 3px black; 
+}
+
+.quote
+{
+  background: rgba(29,29,29, 0.4);
+  border-radius: 25px;
+  color:#EEEEEE;
+  width:65%;
+  margin-top:10%;
+  line-height:20px;
+  padding: 3% 5% 2% 5%;
+  font-family:Lora;
+  margin:auto;
+  background: radial-gradient(ellipse at center, rgba(69,72,77,0.02) 0%,rgba(0,0,0,0.4) 100%); 
+}
+
+.btn
+{
+   margin:3%;
+   outline:none !important;
+   box-shadow: 1px 1px 1px black; 
+}
+
+.quotebody
+{
+  font-size: 1.1em;
+  line-height:27px;
+}
+
+.authorbody
+{
+  margin-top:5%;
+  text-align:right;
+  font-size: 1.0em;
+  color:#BDC3C7;
+} 
