@@ -1,5 +1,7 @@
 # Random-Quotes-Machine
 
+ This project is tested with BrowserStack.
+ 
  Demonstration of Forismatic API for generating random quotes.
  
   This site is published at https://anandgh5.github.io/Random-Quotes-Machine/
